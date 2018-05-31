@@ -10,6 +10,9 @@
     <RepositoryType>git</RepositoryType>
     <PackageTags>rsa,convert</PackageTags>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <PackageProjectUrl>https://github.com/stulzq/DotnetRSA</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/stulzq/DotnetRSA/blob/master/LICENSE</PackageLicenseUrl>
+    <RepositoryUrl>https://github.com/stulzq/DotnetRSA.git</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
