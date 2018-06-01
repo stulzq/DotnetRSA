@@ -1,4 +1,10 @@
 # DotnetRSA
+
+[![NuGet][main-nuget-badge]][main-nuget]
+
+[main-nuget]: https://www.nuget.org/packages/dotnetrsa/
+[main-nuget-badge]: https://img.shields.io/nuget/v/dotnetrsa.svg?style=flat-square&label=nuget
+
 DotnetRSA is a .NET Core Global Tool.Dotnet RSA Tool can help you generate xml pkcs1, pkcs8 three kinds of format keys, and supports three types of mutual conversion.
 
 ## Install
