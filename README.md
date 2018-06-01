@@ -20,11 +20,16 @@ dotnetrsa --help
 ## Usage
 
 ```
-Dotnet RSA Tool can help you generate xml pkcs1, pkcs8 three kinds of format keys, and supports three types of mutual conversion.
+Usage: dotnetrsa [options] [command]
 
-Command:
-        dotnetrsa convert        Convert you keys to xml pkcs1, pkcs8 format.
-        dotnetrsa gen            Generate xml, pkcs1, pkcs8 keys.
+Options:
+  -?|-h|--help  Show help information
+
+Commands:
+  convert       Convert you keys to xml pkcs1, pkcs8 format.
+  gen           Generate xml, pkcs1, pkcs8 keys.
+
+Run 'dotnetrsa [command] --help' for more information about a command.
 ```
 ### • `convert` command
 
