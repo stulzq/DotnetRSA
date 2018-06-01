@@ -7,7 +7,7 @@
     <PackAsTool>true</PackAsTool>
     <!-- Optional performance setting - enables tiered JIT compilation-->
     <TieredCompilation>true</TieredCompilation>
-    <Version>0.1.0</Version>
+    <Version>0.2.0</Version>
     <Description>Dotnet RSA Tool can help you generate xml pkcs1, pkcs8 three kinds of format keys, and supports three types of mutual conversion.</Description>
     <Copyright>Copyright 2018 stulzq</Copyright>
     <RepositoryType>git</RepositoryType>
@@ -18,6 +18,7 @@
     <RepositoryUrl>https://github.com/stulzq/DotnetRSA.git</RepositoryUrl>
     <Authors>stulzq</Authors>
     <Company>stulzq</Company>
+    <PackageReleaseNotes>update tips.</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>

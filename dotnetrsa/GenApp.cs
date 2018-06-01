@@ -16,10 +16,10 @@ namespace dotnetrsa
         [AllowedValues("xml", "pkcs1", "pkcs8", IgnoreCase = false)]
         public string Format { get; }
 
-        [Option("-s|--size <int>", Description = "Key Size.")]
-        public int KeySize { get; }
+        [Option("-s|--size <int>", Description = "Key Size.Default 2048.")]
+        public int KeySize { get; } = 2048;
 
-        [Option("--pem", Description = "Pem Format. true of false.")]
+        [Option("--pem", Description = "Pem Format. true of false.Default false.")]
         [AllowedValues("true", "false", IgnoreCase = true)]
         public string PemFormat { get; } = "false";
 
