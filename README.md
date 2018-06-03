@@ -1,4 +1,4 @@
-# DotnetRSA | [中文](README_zh_cn.md)
+# DotnetRSA | [中文](README_zh-cn.md)
 
 [![NuGet][main-nuget-badge]][main-nuget]
 
